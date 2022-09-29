@@ -1,6 +1,7 @@
 ---
-title:
-  '[object Object]': null
-date:
-  '[object Object]': null
+​---
+title: 相册
+layout: "galleries"
+​---
 ---
+
