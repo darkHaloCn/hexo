@@ -169,7 +169,7 @@ carrier:
 # Galleries
 galleries:
   enable: true
-  title: 摄影
+  title: 相册
   subtitle: Photography
   type: waterfall # waterfall | grid
   columns: 3
