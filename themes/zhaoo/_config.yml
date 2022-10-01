@@ -66,7 +66,7 @@ preview:
     default: 我在开了灯的床头下，想问问自己的心啊。
     color: '#ffffff'
     typing: true
-    api: https://v2.jinrishici.com/one.json
+    api: v1.hitokoto.cn?c
     data_contents: ['data', 'content']
     # ex.one  =>  apl: https://v1.hitokoto.cn/?encode=text&c=i  data_contents:
     # ex.two  =>  api: https://v2.jinrishici.com/one.json  data_contents: ['data', 'content']
@@ -150,8 +150,8 @@ toc:
 # Donate
 donate:
   enable: true
-  alipay: https://pic.izhaoo.com/alipay.jpg
-  wechat: https://pic.izhaoo.com/wechat.jpg
+  alipay: 
+  wechat: 
 
 # Copyright
 post_copyright:
@@ -196,7 +196,7 @@ gitalk:
 valine:
   appId:
   appKey:
-  placeholder: 雁过留痕
+  placeholder: 玉城泉少
   avatar: mp
   pageSize: 10
   lang: zh-CN
