@@ -78,15 +78,15 @@ navbar:
   back_home: true
 
 # Copyright
-copyright: <p>Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  Theme - <a target="_blank" href="https://github.com/idarkHaloCn/hexo-theme-darkHaloCn">darkHaloCn</a></p>
+copyright: <p>Blog by <a target="_blank" href="https://blog.darkhalo.cn">Darkhalo.cn</a>  ♥  Index - <a target="_blank" href="https://darkhalo.cn">个人主页</a></p>
 
 # Social
 social:
-  qq: tencent://message/?Menu=yes&uin=894519210 || iconQQ || '#12B7F5'
+  qq: tencent://message/?Menu=yes&uin=525180891 || iconQQ || '#12B7F5'
   wechat: javascript:; || iconwechat-fill || '#09BB07'
-  instagram: https://www.instagram.com/idarkHaloCn/ || iconinstagram || '#DA2E76'
+  #instagram: https://www.instagram.com/idarkHaloCn/ || iconinstagram || '#DA2E76'
   github: https://github.com/darkHaloCn || icongithub-fill || '#9f7be1'
-  email: mailto:idarkHaloCn@163.com || iconmail
+  email: mailto:77whitemoon@gmail.com || iconmail
 
 # Override Scrollbar
 scrollbar:
@@ -105,7 +105,7 @@ search:
 qrcode:
   enable: true
   type: url # url | image
-  image: https://pic.idarkHaloCn.com/weapp-code.jpg
+  image: #https://pic.izhaoo.com/weapp-code.jpg
 
 # Color Mode
 color_mode:
