@@ -67,7 +67,7 @@ preview:
     color: '#ffffff'
     typing: true
     api: https://v1.hitokoto.cn/?encode=text&c=i
-    data_contents: ['data', 'content']
+    data_contents: 
     # ex.one  =>  apl: https://v1.hitokoto.cn/?encode=text&c=i  data_contents:
     # ex.two  =>  api: https://v2.jinrishici.com/one.json  data_contents: ['data', 'content']
 
