@@ -126,7 +126,7 @@ excerpt:
 # Post Image
 post_image:
   random: local # local galleries
-  default: https://imgapi.xl0408.top/index.php
+  default: https://www.dmoe.cc/random.php
   # /images/theme/post-image.jpg
 
 # Page Size
