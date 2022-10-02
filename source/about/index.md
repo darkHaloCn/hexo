@@ -1,9 +1,7 @@
 ---
-​---
 title: 关于darkHalo
 date: 2020-08-25 12:54:27
-layout: "about"
-​---
+image: http://imgapi.xl0408.top/index.php
 ---
 
 ### 关于我
