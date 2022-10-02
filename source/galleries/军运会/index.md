@@ -1,4 +1,4 @@
 ---
-title: 记事
+title: 军运会
 layout: "gallery"
 ---
