@@ -30,11 +30,16 @@ color:
 
 # Favicon
 favicon:
-  small: /images/icons/favicon-16x16.png
-  medium: /images/icons/favicon-32x32.png
-  apple_touch_icon: /images/icons/apple-touch-icon.png
-  safari_pinned_tab: /images/icons/stun-logo.svg
-  msapplication: /images/icons/favicon-144x144.png
+  small: https://www.darkhalo.cn/favicon.ico
+  #/images/icons/favicon-16x16.png
+  medium: https://www.darkhalo.cn/favicon.ico
+  #/images/icons/favicon-32x32.png
+  apple_touch_icon: https://www.darkhalo.cn/favicon.ico
+  #/images/icons/apple-touch-icon.png
+  safari_pinned_tab: https://www.darkhalo.cn/favicon.ico
+  #/images/icons/stun-logo.svg
+  msapplication: https://www.darkhalo.cn/favicon.ico
+  #/images/icons/favicon-144x144.png
 
 # Font
 font:
@@ -86,7 +91,7 @@ social:
   wechat: javascript:; || iconwechat-fill || '#09BB07'
   #instagram: https://www.instagram.com/idarkHaloCn/ || iconinstagram || '#DA2E76'
   github: https://github.com/darkHaloCn || icongithub-fill || '#9f7be1'
-  email: mailto:77whitemoon@gmail.com || iconmail
+  email: mailto:77whitemoon@gmail.com || iconmail || '#ff3b00'
 
 # Override Scrollbar
 scrollbar:
