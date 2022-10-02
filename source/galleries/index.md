@@ -1,5 +1,4 @@
 ---
-title: 相册
+title: 摄影
 layout: "galleries"
 ---
-
