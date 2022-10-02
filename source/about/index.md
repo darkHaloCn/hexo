@@ -1,111 +1,44 @@
 ---
-title: 关于
-date: 2019-12-26 12:54:27
-image: /images/theme/post-image.jpg
+title: 关于darkHalo
+date: 2020-08-25 12:54:27
 ---
 
-# hexo-theme-zhaoo
+### 关于我
 
-一款简约的 Hexo 主题
+年龄：22(大四在读)
 
-## 预览
+来自：湖北黄冈
 
-- [zhaoo's Blog](https://www.izhaoo.com)
-- [CodeGorgeous](https://codegorgeous.github.io/)
-- [你好我是王日天@](http://www.rt95.ink/)
-- [卞卞不是便便](https://www.bianxr.com/)
-- [Yin Blog](http://xuzhimo.top/)
+曾经：在初中一直想成为一名黑客，也就是网络安全人员，由于自己爱玩，或者说没有坚定的决心，后来就改行做测试了。
 
-（如果您正在使用 zhaoo 主题，欢迎展示您的博客哦，只需在 `README.md` 文件中加入您的博客，提交 PR 即可。）
+爱好：FPS游戏(CSGO、CF、APEX)、洗脚按摩(正规的)
 
-## 特性
+作为一个真ikun，我时常看到网络上很多人黑我家哥哥表示非常痛心，这里我想为我家哥哥发声，再黑我家哥哥必给你们发货的。
 
-- [x] 简约 & 响应式 & 动效
-- [x] `highlight` 代码高亮
-- [x] `Gitalk` 评论
-- [x] `FancyBox` 图片灯箱
-- [x] `Pjax` 无刷新加载
-- [x] `lazyload` 图片懒加载
-- [x] `LeanCloud` 统计访问量
-- [x] `支付宝、微信` 打赏
-- [x] 相册页面，图片支持瀑布流加载（`justifiedGallery`）
-- [x] 格言，可配合插件 `hexo-plug-motto` 实现动态格言
-- [x] 定制 `主题风格`、`CDN`、`埋点脚本`、`社交链接`、`版权说明` 等
+上面是开玩笑的，博主是个平平无奇的科班生，由于前端卷不过那么名校生，只能跑去给开发当工具人，一名测试人员，每天工作就点点点，偶尔写写文档，**荔枝**想成为躺平的测试选手，估计下辈子才能实现目标了。
 
-## 截图
+### 为什么建立个人博客？
 
-![预览](./screenshots/preview.png)
+- 原因1：宣传自己，这是一个信息爆炸、人人自我营销的时代，不懂得宣传自己，就得不到机会的垂青。
 
-![首页](./screenshots/index.png)
+- 原因2：个人觉得IT从业者就应该有自己的博客网站，记录与分享自己的经验，收集有价值的文章。
 
-![文章](./screenshots/article.png)
 
-![相册](./screenshots/galleries.png)
+- 原因3：凭借互联网的媒介，结交志同道合的朋友，为未来的事业做准备。
 
-## 安装
 
-安装 Hexo 后进入根目录：
 
-```bash
-$ cd hexo
-```
 
-安装 zhaoo 主题：
+### 关于网站内容
 
-```bash
-$ git clone https://github.com/izhaoo/hexo-theme-zhaoo.git themes/zhaoo
-```
+本站内容以“原创”教程为主，同时也会收集和分享互联网上比较经典且具有价值的文章。
 
-## 使用
 
-修改 Hexo 根目录下的 `_config.yml` 文件启用 zhaoo 主题：
 
-```yml
-theme: zhaoo
-```
+### 特别感谢
 
-建议将文章数量改为**9**篇，启用代码高亮效果：
+非常感谢每一位走进本站的同学对我们的大力支持，你们的走进是我坚持的动力！
 
-```yml
-index_generator:
-  path: ''
-  per_page: 9
-  order_by: -date
+如果不介意,请把本站分享给您的同学朋友！
 
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: true
-  hljs: true
-  tab_replace:
-```
-
-启动 Hexo 服务器预览：
-
-```bash
-$ hexo clean && hexo s
-```
-
-## 配置
-
-修改主题目录下的 `_config.yml` 文件，配置相关功能：
-
-建议参考 [_config.yml](https://github.com/izhaoo/hexo-theme-zhaoo/blob/master/_config.yml) 进行配置
-
-## 更新
-
-移动到 zhaoo 主题目录：
-
-```bash
-$ cd themes/zhaoo
-```
-
-从 GitHub 获取更新：
-
-```bash
-$ git pull
-```
-
-## 协议
-
-[MIT](https://github.com/izhaoo/hexo-theme-zhaoo/blob/master/LICENSE) License
+我会一直努力，不求最好，只求更好！
