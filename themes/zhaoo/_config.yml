@@ -110,7 +110,7 @@ search:
 
 # QR Code
 qrcode:
-  enable: false
+  enable: true
   type: url # url | image
   image: #https://pic.izhaoo.com/weapp-code.jpg
 
