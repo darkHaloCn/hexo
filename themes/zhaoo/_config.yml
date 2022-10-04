@@ -83,7 +83,9 @@ navbar:
   back_home: true
 
 # Copyright
-copyright: <p>Blog by <a target="_blank" href="https://blog.darkhalo.cn">Darkhalo.cn</a>  ♥  Index - <a target="_blank" href="https://darkhalo.cn">个人主页</a></p>
+copyright: <p>Blog by <a target="_blank" href="https://blog.darkhalo.cn">Darkhalo.cn</a>  ♥  Index - <a target="_blank" href="https://darkhalo.cn">个人主页</a><a target="_blank" title="网站统计" href="https://v6.51.la/land/JprGQNJ6KTizPfJ8"><img src="https://sdk.51.la/icon/2-4.png"></a></p>
+            
+
 
 # Social
 social:
@@ -108,7 +110,7 @@ search:
 
 # QR Code
 qrcode:
-  enable: true
+  enable: false
   type: url # url | image
   image: #https://pic.izhaoo.com/weapp-code.jpg
 
@@ -156,7 +158,7 @@ toc:
 
 # Donate
 donate:
-  enable: true
+  enable: false
   alipay: 
   wechat: 
 
