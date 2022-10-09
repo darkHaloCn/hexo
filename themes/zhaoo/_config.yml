@@ -64,7 +64,7 @@ preview:
       light: /images/theme/welcome-image.jpg
       dark: /images/theme/welcome-image.jpg
     video:
-    api:  https://img.xjh.me/random_img.php
+    api:  https://tuapi.eees.cc/api.php
           #http://imgapi.xl0408.top/index.php
           #https://source.unsplash.com/random/1920x1080
     size: cover # css: background-size
