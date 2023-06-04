@@ -64,9 +64,10 @@ preview:
       light: /images/theme/welcome-image.jpg
       dark: /images/theme/welcome-image.jpg
     video:
-    api:  #https://api.haibara.cn/fengjing3/index.php
+    api:  https://xi-1255495366.cos.ap-chengdu.myqcloud.com/46854f50ad83747f00cc49a33db38408.png
+          #https://api.haibara.cn/fengjing3/index.php
           #http://imgapi.xl0408.top/index.php
-          https://source.unsplash.com/random/1920x1080
+          #https://source.unsplash.com/random/1920x1080
     size: cover # css: background-size
     position: center # css: background-position
   motto:
